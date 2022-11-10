@@ -1,0 +1,69 @@
+@media (max-width: 700px) {
+  .main_header {
+    height: 100%;
+  }
+  .navbar_index {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .navbar_index .logo {
+    float: none;
+    text-align: center;
+    padding-top: 20px;
+    height: 100%;
+  }
+  .navbar_index ul {
+    float: none;
+    padding-left: 50px;
+    text-transform: uppercase;
+  }
+  .pagina_principal {
+    padding: 20px 0;
+  }
+  .pagina_principal .fila_principal {
+    flex-wrap: wrap;
+  }
+  .pagina_principal .fila_texto {
+    padding-right: 0px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  .pagina_principal .fila_img {
+    padding-left: 0px;
+  }
+  .pagina_principal .fila_img img {
+    width: 100%;
+  }
+  .section_servicios {
+    padding: 40px 0;
+  }
+  .section_servicios h2,
+.section_servicios p.parrafo_largo {
+    width: 100%;
+  }
+  .fila_servicios {
+    flex-wrap: wrap;
+    padding-top: 0;
+  }
+  .fila_servicios .fila_servicios_box {
+    padding: 10px;
+  }
+  .section_contacto {
+    padding: 40px 0;
+  }
+  .section_contacto h2,
+.section_contacto p.parrafo_largo {
+    width: 100%;
+  }
+  .section_contacto form {
+    padding-top: 30px;
+    width: 100%;
+  }
+  .section_contacto form button {
+    width: 100%;
+  }
+  .main_footer {
+    text-align: center;
+    padding: 30px;
+  }
+}/*# sourceMappingURL=mobile.css.map */
